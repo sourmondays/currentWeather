@@ -1,2 +1,2 @@
 # currentWeather
-Webbapplication built with React using hooks
+Webbapplication built with React using hooks.
